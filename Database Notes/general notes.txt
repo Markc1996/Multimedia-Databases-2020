@@ -1,0 +1,37 @@
+project spec notes:
+
+managing database memory
+
+- section 5 & 6 
+
+managing users and security
+
+- section 7 (dba manual)
+
+exporting and importing metadata
+
+- section 10 (same manual)
+
+backing up and recovery
+
+- section 11
+
+---------------------------------------------
+
+Things to be asked at demo:
+
+creating tables
+
+triggers and sequences
+
+users and securities
+
+exporting and importing data and metadata
+
+managing db recovery
+
+archive log mode
+
+table space
+
+
